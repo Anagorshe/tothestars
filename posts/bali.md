@@ -1,5 +1,5 @@
 ---
-author: Siddhartha Mukherjee
+author: ''
 date: '2019-07-10T07:00:00.000Z'
 hero_image: ../static/IMG_3128 2.jpg
 title: All about myself
